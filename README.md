@@ -2,9 +2,12 @@
 Extend the function of volley. Encapsulation the post method and cache strategy to the volley library.
 
 ### Features
-Add Post request to the api of volley;
+Add post request to the api of volley;
+
 Add request to upload bytes array to server;
+
 Add request to download bytes array from server;
+
 Add memory cache and disk cache for get image from server;
 
 ### Usage
